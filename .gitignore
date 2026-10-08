@@ -1,0 +1,12 @@
+*.vscode
+*.vs
+vs/
+vscode/
+
+*.env
+
+backend/venv/
+
+*.md
+
+*.png
